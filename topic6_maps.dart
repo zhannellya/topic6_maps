@@ -74,21 +74,4 @@ void main() {
     // print("New List: $newList");
   }
 
-  //task9
-  // Map<int, int> map = {1: 0, 2: 1, 3: 2};
-  // List<int> valuesFromMap1 = map.values.toList();
-  // for (int i = 0; i < valuesFromMap1.length; i++) {
-  //   int n = valuesFromMap1[i];
-  //   List<int> fibonacciSequence = [];
-  //   int a = 0, b = 1;
-
-  //   for (int i = 0; i < n; i++) {
-  //     fibonacciSequence.add(a);
-  //     int next = a + b;
-  //     a = b;
-  //     b = next;
-  //   }
-
-  //   print("Fibonacci Sequence (first $n terms): $fibonacciSequence");
-  // }
 }
